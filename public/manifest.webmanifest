@@ -1,0 +1,14 @@
+{
+  "name": "EGG WARS",
+  "short_name": "EGG WARS",
+  "description": "Egg soldier arena shooter — offline NPC battles and server-authoritative multiplayer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#060a12",
+  "theme_color": "#060a12",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
